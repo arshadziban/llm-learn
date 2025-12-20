@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IPython
+.ipython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env.local
+.env.local
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# NLTK Data
+nltk_data/
+
+# PyCharm
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Spacy models
+en_core_web_sm/
+en_core_web_md/
+en_core_web_lg/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.lnk
+Thumbs.db
+
+# Data files 
+# *.csv
+# *.json
+# *.pkl
+# data/
+
+# Model files
+# *.pt
+# *.pth
+# models/
