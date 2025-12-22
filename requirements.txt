@@ -20,7 +20,8 @@ pinecone-client>=2.2.0
 faiss-cpu>=1.7.0
 
 # RAG and Language Models
-langchain>=0.0.200
+langchain>=0.1.0
+langchain-core>=0.1.0
 openai>=0.27.0
 
 # Jupyter and Utilities
